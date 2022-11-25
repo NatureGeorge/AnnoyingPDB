@@ -26,6 +26,9 @@ A list of PDB chain instances with unexpected errors.
 
 ### 1HDP
 
+<img src="https://user-images.githubusercontent.com/43134199/203902686-4ebed8fe-a0ae-42e1-b0ed-a7cccd6bc858.png" width="25%">
+
+
 ### 1BV8
 
 
