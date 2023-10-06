@@ -31,4 +31,6 @@ A list of PDB chain instances with unexpected errors.
 
 ### 1BV8
 
+## Missing Segments of NMR Models
 
+### 2L6F
