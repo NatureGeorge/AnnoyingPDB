@@ -35,6 +35,6 @@ A list of PDB chain instances with unexpected errors.
 
 ### 2L6F
 
-## Wrong topo
+## Wrong topo?
 
-### 4C41
+### 4C41/4ZK3
