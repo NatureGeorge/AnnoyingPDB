@@ -34,3 +34,7 @@ A list of PDB chain instances with unexpected errors.
 ## Missing Segments of NMR Models
 
 ### 2L6F
+
+## Wrong topo
+
+### 4C41
