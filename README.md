@@ -38,3 +38,9 @@ A list of PDB chain instances with unexpected errors.
 ## Wrong topo?
 
 ### 4C41/4ZK3
+
+## Containing Missing Segments But Did Not Provide Sequence Info
+
+### 5W7Q
+
+* auth 261, auth 274
