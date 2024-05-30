@@ -44,3 +44,7 @@ A list of PDB chain instances with unexpected errors.
 ### 5W7Q
 
 * auth 261, auth 274
+
+## Wrong Model Number
+
+### 2N6J
