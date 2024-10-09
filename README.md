@@ -48,3 +48,11 @@ A list of PDB chain instances with unexpected errors.
 ## Wrong Model Number
 
 ### 2N6J
+
+## Unexpected Large File Size
+
+### 4PTH
+
+## Unexpected Large Number of Submited Models
+
+### 2KOX
