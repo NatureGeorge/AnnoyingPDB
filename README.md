@@ -56,3 +56,7 @@ A list of PDB chain instances with unexpected errors.
 ## Unexpected Large Number of Submited Models
 
 ### 2KOX
+
+## Ligand Does Not Have Asym ID Due to Not Presenting In the First MODEL
+
+### 2ICY
