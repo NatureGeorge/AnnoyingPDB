@@ -60,3 +60,7 @@ A list of PDB chain instances with unexpected errors.
 ## Ligand Does Not Have Asym ID Due to Not Presenting In the First MODEL
 
 ### 2ICY
+
+## Wrong Entity Type
+
+### 8UH4
