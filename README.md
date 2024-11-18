@@ -69,3 +69,6 @@ A list of PDB chain instances with unexpected errors.
 
 ### 8UH4
 
+## Overflowed Coordinates for PDB Format
+
+### 4GSO
