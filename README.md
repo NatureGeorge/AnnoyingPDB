@@ -61,6 +61,11 @@ A list of PDB chain instances with unexpected errors.
 
 ### 2ICY
 
+## Some Chains Might Not Present in all MODEL
+
+### 5W0S.J, 1ZY8.O, 1MSH.B
+
 ## Wrong Entity Type
 
 ### 8UH4
+
