@@ -77,3 +77,7 @@ A list of PDB chain instances with unexpected errors.
 
 ### 1LPV
 
+## Unequal Number of Residues Across MODEL
+
+## 1ZY8.K 2OFG.A 1NWB.A
+
