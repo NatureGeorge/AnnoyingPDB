@@ -72,3 +72,8 @@ A list of PDB chain instances with unexpected errors.
 ## Overflowed Coordinates for PDB Format
 
 ### 4GSO
+
+## Some Atoms are Missing in Specific MODEL
+
+### 1LPV
+
