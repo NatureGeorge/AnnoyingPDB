@@ -4,6 +4,12 @@
 
 A list of PDB chain instances with unexpected errors.
 
+## Superimposed Structure
+
+## 1GJJ
+
+<img src="https://cdn.rcsb.org/images/structures/1gjj_assembly-1.jpeg" width="25%">
+
 ## "D-amino acid"
 
 ### 1CHM
